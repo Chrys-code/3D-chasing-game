@@ -1,11 +1,13 @@
 {
-   "homepage": "http://chrys-code.github.io/3D-chasing-game",
+   "homepage": "https://chrys-code.github.io/3D-chasing-game/",
   "name": "task1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d task1"
+
   },
   "author": "",
   "license": "ISC",
